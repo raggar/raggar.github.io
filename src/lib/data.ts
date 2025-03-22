@@ -60,17 +60,17 @@ export const projectData = [
 ]
 
 export const workData = [
-	{
-		title: "Incoming Software Engineer Intern",
-		company: "Cartesia",
-		location: "San Francisco, CA",
-		description: "More on this soon ...",
-		icon: React.createElement(FaYCombinator),
-		date: "2025",
-		src: "/cartesia.png",
-		href: "https://www.cartesia.ai/",
-		tags: ["Python", "Go"],
-	},
+	// {
+	// 	title: "Incoming Software Engineer Intern",
+	// 	company: "Cartesia",
+	// 	location: "San Francisco, CA",
+	// 	description: "More on this soon ...",
+	// 	icon: React.createElement(FaYCombinator),
+	// 	date: "2025",
+	// 	src: "/cartesia.png",
+	// 	href: "https://www.cartesia.ai/",
+	// 	tags: ["Python", "Go"],
+	// },
 	{
 		title: "Software Engineer",
 		company: "Ramp",
